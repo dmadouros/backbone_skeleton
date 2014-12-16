@@ -2,10 +2,10 @@
 //= require lodash
 //= require jquery_ujs
 //= require backbone
-//= require jade/runtime
+//= require tilt-jade/runtime
 
 //= require task
-//= require_tree ../templates
+//= require_tree ./templates
 //= require_tree ./models
 //= require_tree ./collections
 //= require_tree ./views

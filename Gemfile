@@ -9,7 +9,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'backbone-on-rails'
 gem 'lodash-rails'
-gem 'jade'
+gem 'tilt-jade'
 
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
