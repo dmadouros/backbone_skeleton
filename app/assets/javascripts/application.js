@@ -1,8 +1,9 @@
 //= require jquery
 //= require lodash
 //= require jquery_ujs
-//= require lodash
 //= require backbone
+//= require jade/runtime
+
 //= require task
 //= require_tree ../templates
 //= require_tree ./models
